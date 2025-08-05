@@ -19,3 +19,16 @@ This is a simple chatbot built using **Streamlit** that checks whether a product
 1. Clone the repository:
 git clone https://github.com/Shubham-USAR/sustainable-product-checker.git
 cd sustainable-product-checker
+
+🌐 Live App
+
+Try the chatbot online:
+👉 https://sustainable-checker.streamlit.app
+
+📦 Tech Stack
+  Python
+  Streamlit
+  Regex (for extracting product info)
+  Simple NLP (keyword matching)
+
+

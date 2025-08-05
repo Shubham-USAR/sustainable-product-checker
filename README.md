@@ -1,2 +1,21 @@
-# sustainable-product-checker
-A Streamlit chatbot that checks if a product is eco-friendly by analyzing its name from shopping links like Amazon, Flipkart, or Meesho. Built with Python.
+🌿 Sustainable Product Checker
+
+This is a simple chatbot built using **Streamlit** that checks whether a product is eco-friendly or not based on keywords from its **shopping link**.
+
+---
+
+🚀 Features
+
+- 🛍️ Accepts product URLs from Amazon, Flipkart, Meesho, etc.
+- 🔍 Extracts product title from the link
+- ♻️ Matches with a list of eco-friendly keywords like:
+  - bamboo, organic,biodegradable, recycled, sustainable, etc.
+- ✅ Shows if the product is likely sustainable
+
+---
+
+💻 How to Run Locally
+
+1. Clone the repository:
+git clone https://github.com/Shubham-USAR/sustainable-product-checker.git
+cd sustainable-product-checker
